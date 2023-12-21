@@ -10,7 +10,6 @@ About Me
 Skills
 Programming Languages: Kotlin, React Native, Python
 Databases: MongoDB, MySQL
-Web Technologies: HTML, CSS, JavaScript
 
 Get in Touch
 LinkedIn: www.linkedin.com/in/agahuseyn-safarzade-034b46229
