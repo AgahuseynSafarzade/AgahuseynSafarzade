@@ -1,36 +1,26 @@
-# 👋 Merhaba! Ben Agahuseyn Safarzade
+# Merhaba, Ben Agahuseyn Safarzade! 👋
 
-Arkadaşlarım bana **Agah** diyor. 2024 yılında İstanbul Gelişim Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum ve şu anda aynı üniversitede Bilgisayar Mühendisliği üzerine yüksek lisans yapıyorum.
+Arkadaşlarım bana Agah diyor. 2024 yılında İstanbul Gelişim Üniversitesi'nden Bilgisayar Mühendisliği bölümünden mezun oldum ve şu anda İstanbul Gelişim Üniversitesi'nde Bilgisayar Mühendisliği üzerine yüksek lisans yapıyorum.
 
-## 🚀 Hakkımda
+## Hakkımda
 
-- 🎓 **Eğitim**: İstanbul Gelişim Üniversitesi, Bilgisayar Mühendisliği Lisans (Yüksek Lisans Devam ediyor...)
-- 📱 **Tutku**: Mobil programlama
-- 📚 **Bitirme Projem**: Mobil yazılım üzerine
+- 🌱 **Lisans**: Bilgisayar Mühendisliği, İstanbul Gelişim Üniversitesi (2024)
+- 🎓 **Yüksek Lisans**: Bilgisayar Mühendisliği, İstanbul Gelişim Üniversitesi
+- 💻 **Bitirme Projesi**: Mobil Yazılım
+- 📱 **Tutkularım**: Mobil Programlama
 
-## 🛠️ Teknik Yetkinlikler
+## Teknoloji ve Araçlar
 
-- **Programlama Dilleri**: Java, Kotlin, React Native, Python
-- **Mobil Geliştirme**: Android
-- **Diğer Teknolojiler**: Git, RESTful API'lar, Firebase, MongoDB
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
 
-- **Literatür Taraması**: Akademik makaleler, teknik raporlar ve endüstri belgeleri üzerinden kapsamlı literatür taraması yapabilme.
-- **Veri Analizi**: Araştırma verilerini toplama, analiz etme ve yorumlama konusundaki yetkinlik.
-- **Problem Çözme**: Kompleks teknik sorunları araştırma ve çözme becerisi.
-- **Yeni Teknolojileri Keşfetme**: Yeni yazılım araçlarını ve teknolojilerini öğrenme ve projelerde uygulama yeteneği.
+## İletişim
 
-## 🎯 Hedeflerim
-
-Mobil yazılım geliştirme alanında derinlemesine bilgi sahibi olmak ve yenilikçi projeler üzerinde çalışarak sektörde fark yaratmak.
-
-## 📫 Bana Ulaşın
-
-- LinkedIn: [https://www.linkedin.com/in/agahuseyn-safarzade-034b46229]
-- Instagram: [https://www.instagram.com/agah.safarzd?igsh=MW5iZndwemk4aGxneA==]
-- Email: [agahuseyn.contact@gmail.com]
-
-GitHub profilime göz atarak projelerimi inceleyebilir ve daha fazla bilgi edinebilirsiniz. İşbirliklerine ve yeni projelere her zaman açığım!
+- **LinkedIn**: [Agahuseyn Safarzade](https://www.linkedin.com/in/agahuseyn-safarzade)
+- **E-posta**: agah@example.com
 
 ---
 
-Teşekkürler ve iyi günler dilerim!
+✨ GitHub profilimi ziyaret ettiğiniz için teşekkürler! ✨
