@@ -21,8 +21,8 @@
 
 <h3 align="left">Benimle iletişime geçin</h3>
 <p align="left">
-  <a href="mailto:agah@example.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="40" /></a>
-  <a href="https://www.linkedin.com/in/agahuseyn-safarzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="50" /></a>
+  <a href="mailto:agahuseyn.contact@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/agahuseyn-safarzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" /></a>
   <a href="https://www.instagram.com/agah.safarzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" /></a>
 </p>
 
